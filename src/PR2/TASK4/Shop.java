@@ -1,4 +1,4 @@
-package ru.mirea.PR2.TASK4;
+package PR2.TASK4;
 
 import java.util.ArrayList;
 
