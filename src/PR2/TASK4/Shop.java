@@ -12,7 +12,6 @@ public class Shop {
     public ArrayList<String> getComputers() {
         return computers;
     }
-
     public void addComputer(String computerName) {
         computers.add(computerName);
     }
