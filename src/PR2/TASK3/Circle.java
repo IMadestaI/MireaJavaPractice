@@ -17,7 +17,8 @@ public class Circle {
         return radius;
     }
 
-    public void setCenter(Point center) {
+    public void setCenter(Point center)
+    {
         this.center = center;
     }
 

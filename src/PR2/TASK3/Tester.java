@@ -31,7 +31,7 @@ public class Tester {
         Circle circle1 = new Circle(point1, 5.0);
         Circle circle2 = new Circle(point2, 3.0);
 
-        Tester tester = new Tester(2);
+        Tester tester = new Tester(1);
         tester.addCircle(circle1);
         tester.addCircle(circle2);
 
